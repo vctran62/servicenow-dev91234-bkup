@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <component_config/>
+        <config_layout/>
+        <description>PagerDuty integration</description>
+        <external_configuration_sources/>
+        <group/>
+        <group_category/>
+        <group_icon/>
+        <icon>document-outline</icon>
+        <image_icon/>
+        <internal_component>false</internal_component>
+        <label>PagerDuty</label>
+        <macroponent display_value="PagerDuty">ce0b0c0c6011bc54b4ee13183feb2349</macroponent>
+        <order>0</order>
+        <scripted_config_policy/>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-09 16:47:41</sys_created_on>
+        <sys_id>c0f7b5be34f960f1cd6e47a3aecab9ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PagerDuty</sys_name>
+        <sys_package display_value="PagerDuty for Customer Service Management" source="x_pd_pagerdu_1">2e31f90d1b7b11109aeeea4fad4bcb0f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PagerDuty for Customer Service Management">2e31f90d1b7b11109aeeea4fad4bcb0f</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_c0f7b5be34f960f1cd6e47a3aecab9ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-09 16:47:41</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0f7b5be34f960f1cd6e47a3aecab9ee"/>
+</record_update>
