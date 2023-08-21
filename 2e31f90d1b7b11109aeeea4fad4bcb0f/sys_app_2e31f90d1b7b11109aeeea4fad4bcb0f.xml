@@ -45,7 +45,6 @@
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>logo</file_name>
         <hash>ebb32fe9855590713775b37a46b0e4664440d93181331d626b514eb7f429b763</hash>
         <image_height>170</image_height>
@@ -55,6 +54,8 @@
         <state>available</state>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-15 12:12:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>2cd4765d1bbb5110bb05eb13b24bcbb4</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
